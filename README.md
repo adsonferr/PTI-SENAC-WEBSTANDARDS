@@ -13,7 +13,3 @@ Você pode visualizar a página no GitHub Pages:
 
 [🔗 Meu Site](https://adsonferr.github.io/PTI-SENAC-WEBSTANDARDS/)
 
-## 📂 Como rodar localmente
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
